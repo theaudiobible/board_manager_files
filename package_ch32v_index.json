@@ -155,12 +155,12 @@
         {
           "name": "CH32 MCU EVT Boards",
           "architecture": "ch32v",
-          "version": "1.0.4-CH32V203RB",
+          "version": "1.0.4.2",
           "category": "Contributed",
-          "url": "https://codeload.github.com/theaudiobible/arduino_core_ch32/zip/refs/tags/1.0.4-CH32V203RB",
-          "archiveFileName": "arduino_core_ch32-1.0.4-CH32V203RB.zip",
-          "checksum": "SHA-256:b9bb65f95d556c7dcbcd81eecd29bfd21ed482bc88514f578b1e76f70f457346",
-          "size": "999395",
+          "url": "https://codeload.github.com/theaudiobible/arduino_core_ch32/zip/refs/tags/1.0.4.2",
+          "archiveFileName": "arduino_core_ch32-1.0.4.2.zip",
+          "checksum": "SHA-256:147feb58a852e30285927b0f89e334279eb552f9d6682cf6c819109a245d5c37",
+          "size": "989323",
           "boards": [
             {"name": "CH32X035 EVT Board"},
             {"name": "CH32V30x EVT Board"},
